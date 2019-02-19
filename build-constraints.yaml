@@ -54,6 +54,7 @@ packages:
 
     "Andrew Newman <andrewfnewman@gmail.com> @andrewfnewman":
         - geojson
+        - wkt-geom
 
     "Mateusz Karbowy <mateusz.karbowy@gmail.com> @obszczymucha":
         - parsec-numbers
